@@ -29,4 +29,6 @@ This prjoect will showcase four different scripts that will be written in bash (
 
 **Admixture**: This package is the main bread and butter of the project. This is the software that performs the ancestry population analysis on our data. 
 
+**R and R Studio**: The R softwares are used for plotting and producing a graphic that showcases the results of the analysis on the data in a way that is easy to visualize. I have been taught to use R studio, so I suggest installing them both. The script is able to be executed on the command line;however, when I created the plots I did so within the R Studio program itself.
+
 
