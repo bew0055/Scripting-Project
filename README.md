@@ -35,6 +35,8 @@ This prjoect will showcase four different scripts that will be written in bash (
 
 ## Final Output
 
-The end goal of this project is to produce the two Admixture files (.P and .Q files) and then to use the .Q file in order to create plots in R. If you are wondering if you produced the work correctly, please refer to the "Expected Output for Example Files" folder. This folder holds all of the output produced when I ran the example files using the scripts provided for you. The R graphs provide how each
+The end goal of this project is to produce the two Admixture files (.P and .Q files) and then to use the .Q file in order to create plots in R. If you are wondering if you produced the work correctly, please refer to the "Expected Output for Example Files" folder. This folder holds all of the output produced when I ran the example files using the scripts provided for you. The R graphs provide how each sample included in the example data can be broken down between the three population groups.
+
+My work going forward is focused on making the actual percentages of population break down can be easily seen and calculated (the base graphs do not include these values).
 
 This ReadMe should give you a detailed outline of what this project entails. I wish you all success in reproducing this project and if you'd like to check out the scripts and final plot produced from my larger overarching project, feel free to check out the "Actual Project Scripts and Outputs" folder! 
