@@ -33,7 +33,7 @@ This prjoect will showcase four different scripts that will be written in bash (
 
 **R and R Studio**: The R softwares are used for plotting and producing a graphic that showcases the results of the analysis on the data in a way that is easy to visualize. I have been taught to use R studio, so I suggest installing them both. The script is able to be executed on the command line;however, when I created the plots I did so within the R Studio program itself.
 
-##Final Output
+## Final Output
 
 The end goal of this project is to produce the two Admixture files (.P and .Q files) and then to use the .Q file in order to create plots in R. If you are wondering if you produced the work correctly, please refer to the "Expected Output for Example Files" folder. This folder holds all of the output produced when I ran the example files using the scripts provided for you.
 
