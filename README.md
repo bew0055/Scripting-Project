@@ -12,6 +12,8 @@ To download R Studio and R, all packages and versions can be found at https://po
 
 To download the software packages for Plink, please visit https://www.cog-genomics.org/plink/ - utilize whichever of the "Stable" binary downloads apply to your operating system. I used Plink 1.9 for this example. In my actual project, I utilize both versions 1.9 and 2.0. (You can just download version 1.9).
 
+(I have not included these downloads in the GitHub so you can go through the process of downloading them yourself - I dragged them from my download directory into my working directory when dealing with them on my own.) 
+
 ## Purpose of This Project and Overview of Scripts/Packages
 **The goal of this project is to run population based ancestry analysis on samples to see what percentage of their makeup comes from different populations.** 
 
